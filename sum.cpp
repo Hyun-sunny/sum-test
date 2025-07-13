@@ -1,2 +1,6 @@
-// sum.cpp
-return n*(n+1)/2;
+#include "sum.h"
+
+int sum(int n) {
+	return n*(n+1)/2;
+}
+
